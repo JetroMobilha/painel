@@ -46,11 +46,11 @@ return [
         ['value' => 'adminPanel', 'label' => 'Admin Panel'],
     ],
     'widgets' => [
-        'Uasoft\\Badaso\\Widgets\\CalendarioWidget',
-        'Uasoft\\Badaso\\Widgets\\UserWidget',
-        'Uasoft\\Badaso\\Widgets\\RoleWidget',
-        'Uasoft\\Badaso\\Widgets\\PermissionWidget',
-        'Uasoft\\Badaso\\Widgets\\TabelaWidget',
+        'App\\Widgets\\CalendarioWidget',
+        //'Uasoft\\Badaso\\Widgets\\UserWidget',
+       // 'Uasoft\\Badaso\\Widgets\\RoleWidget',
+        //'Uasoft\\Badaso\\Widgets\\PermissionWidget',
+       // 'Uasoft\\Badaso\\Widgets\\TabelaWidget',
     ],
     'whitelist' => [
         'web' => [],

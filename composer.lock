@@ -350,12 +350,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/JetroMobilha/badaso.git",
-                "reference": "5729aec9e50b57ae3ec45da30dfd294e44abfccf"
+                "reference": "b02c2df9f1aba4b2055bb2a57a7c6067bd6f1381"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/JetroMobilha/badaso/zipball/5729aec9e50b57ae3ec45da30dfd294e44abfccf",
-                "reference": "5729aec9e50b57ae3ec45da30dfd294e44abfccf",
+                "url": "https://api.github.com/repos/JetroMobilha/badaso/zipball/b02c2df9f1aba4b2055bb2a57a7c6067bd6f1381",
+                "reference": "b02c2df9f1aba4b2055bb2a57a7c6067bd6f1381",
                 "shasum": ""
             },
             "require": {
@@ -439,7 +439,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2023-03-05T11:15:41+00:00"
+            "time": "2023-03-19T05:26:44+00:00"
         },
         {
             "name": "brick/math",

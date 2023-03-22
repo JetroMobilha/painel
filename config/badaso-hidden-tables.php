@@ -6,7 +6,7 @@ return [
     env('BADASO_TABLE_PREFIX', 'badaso_').'data_types',
     env('BADASO_TABLE_PREFIX', 'badaso_').'menus',
     env('BADASO_TABLE_PREFIX', 'badaso_').'menu_items',
-    env('BADASO_TABLE_PREFIX', 'badaso_').'users',
+    //env('BADASO_TABLE_PREFIX', 'badaso_').'users',
     env('BADASO_TABLE_PREFIX', 'badaso_').'roles',
     env('BADASO_TABLE_PREFIX', 'badaso_').'permissions',
     env('BADASO_TABLE_PREFIX', 'badaso_').'configurations',
